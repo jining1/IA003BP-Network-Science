@@ -4,6 +4,18 @@
 
 # 0、摘要
 
+# 为什么学习网络科学
+
+21世纪的进化学，改变思维方式
+
+热度
+
+
+![](https://upload-images.jianshu.io/upload_images/2054046-8f4aa3bb05ae7a75.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+
+![](https://upload-images.jianshu.io/upload_images/2054046-6fb4469f8579a624.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
 
 # 1、学术分析
 
@@ -98,27 +110,44 @@
 
 ## 1.2、空间
 
-### 1.2.1、网络科学和其他学科的关系
+### 1.2.1、网络科学的学科结构
 
 它与数学、物理科学、复杂性科学、非线性科学、计算机与信息科学、生物科学、系统科学、 社会科学等众多学科广泛交叉。
 
-- **网络科学涉及的相关理论方法**
+> 为了促进网络科学的发展并正确使用其工具，必须掌握其背后的数学形式。网络科学借用形式主义来处理图论和处理随机性的概念框架中的图形，并从统计物理学中寻求普遍的组织原则。最近，该领域受益于从工程中借鉴的概念，如控制和信息理论，使我们能够理解网络的控制原理，并从统计学中帮助我们从不完整和嘈杂的数据集中提取信息。
+>
+> 网络分析软件的开发使网络科学工具可供更广泛的社区使用，甚至那些可能不熟悉知识基础和该学科的完整数学深度的人。然而，为了进一步发展这个领域并有效地使用它的工具，我们需要掌握它的理论形式主义。
+
+bala networks
+
+#### 网络科学涉及的相关理论方法
 
 ![](https://upload-images.jianshu.io/upload_images/2054046-232f71a628846434.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 摘自 [方锦清，汪小帆等著：一门崭新的交叉科学:网络科学(上)](http://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFQ&dbname=CJFD2007&filename=WLXJ200703001&uid=WEEvREcwSlJHSldTTEYzU3EydDRPaGVMOXlJRW1QK21xZVJ2TGx2c0F4bz0=$9A4hF_YAuvQ5obgVAqNKPCYcEjKensW4IQMovwHtwkF4VYPoHbKxJw!!&v=MTE2NDRaTEc0SHRiTXJJOUZaWVI4ZVgxTHV4WVM3RGgxVDNxVHJXTTFGckNVUkxPZlp1ZHNGeURnVnJySk1pSFQ=)
 
-- **网络科学应用的领域**
+#### 网络科学的工具
 
-信息技术网络，计算机网络，生物圈网络，学习和认知网络，社会关系网络以及经济和金融网络。
+对网络的深入研究以 **计算机** 为主要工具来完成。
+
+#### 网络科学应用的领域
+
+- 技术网络（Internet，电话网络，电力网络，交通网络，配送网络）
+
+- 社会网络（社会关系网络、经济和金融网络）
+
+- 信息网络（万维网、引文网络、其他类型的信息网络）
+
+- 生物网络（生物化学网络、神经网络、生态网络）
+
+（以上是一张PPT，三个方面（理论是一个地基，工具是一个扳手之类，实证研究。。），理论，工具，实证研究。然后底下再列出具体的。）
 
 *国际上，网络科学的顶级研究者聚集地，国家？实验室？国内，网络科学top的大学（由于网络科学是跨学科的，所以猜测每个具体学科哪个大学厉害就会涉及网络科学，比如心理学系厉害的首都师范大学的社会网络分析是top的研究机构等）*
 
-### 1.2.2、top scientists
 
-### 1.2.3、top journals
+### 1.2.2、网络科学的空间结构
 
-### 1.2.4、top labs
+- 实验室
 
 [Barabási Lab - Northeastern University Network Science Institute](https://www.barabasilab.com/)
 
@@ -134,7 +163,9 @@ github awesome清单
 
 ## 1.3.变量关系
 
-### 1.3.1、范式一：定义
+变量是论文和图书。是读什么论文图书和怎么读的问题。具体就是按照zotero下载，按照书单或者批量购买，然后按照课程的阅读法阅读。
+
+### 1.3.1、网络科学的基本概念
 
 - **网络和网络科学的定义**
 
@@ -150,9 +181,9 @@ github awesome清单
 
 摘自 [方锦清，汪小帆等著：一门崭新的交叉科学:网络科学(上)](http://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFQ&dbname=CJFD2007&filename=WLXJ200703001&uid=WEEvREcwSlJHSldTTEYzU3EydDRPaGVMOXlJRW1QK21xZVJ2TGx2c0F4bz0=$9A4hF_YAuvQ5obgVAqNKPCYcEjKensW4IQMovwHtwkF4VYPoHbKxJw!!&v=MTE2NDRaTEc0SHRiTXJJOUZaWVI4ZVgxTHV4WVM3RGgxVDNxVHJXTTFGckNVUkxPZlp1ZHNGeURnVnJySk1pSFQ=)
 
-- **新模因**
+- **新模因，一级术语体系**
 
-结构、涌现、幂律、多层、尺度、分形、自组织、弱联系、三元组、结构洞、中心性
+结构、涌现、幂律、多层、尺度、分形、自组织、弱联系、三元组、结构洞、中心性、涌现
 
 - **网络科学的复杂网络类型和理论模型分类**
 
@@ -160,7 +191,9 @@ github awesome清单
 
 左：按照现实的领域划分；右：根据节点度的分布特点来划分；下：根据网络的边有无权值划分；上：根据生成方式划分。
 
-### 1.3.2、作为自变量影响什么
+
+
+（### 1.3.2、作为自变量影响什么
 
 网络科学致力于研究节点（node）和边（edge）组成的网络（network）。节点可以从从个体、组织到国家，也可以从分子、基因到网页、地点；同样，连带可以是人际关系、组织关系与国家关系，也可以从神经网络、网页引用到交通网络。
 
@@ -172,7 +205,81 @@ github awesome清单
 
 ### 1.3.3、作为因变量被什么影响
 
- 研究主题
+ 研究主题）
+
+
+### 1.3.2、top scientists
+
+ Luís A. Nunes Amaral
+ Albert-László Barabási (scale-free, power law)
+ Alain Barrat (epidemic spreading)
+ Guido Caldarelli
+ John Doyle
+ Jure Leskovec
+ Mark Newman (community structure)
+ Steven H. Strogatz (synchronization, coupled oscillators)
+ Alessandro Vespignani (epidemic spreading)
+ Duncan J. Watts (six degrees, small world, social-networks)
+
+ 以上来自网站http://www.network-science.org/
+
+- Social and behavioral sciences
+ Peter Bearman
+ Ronald S. Burt
+ Noshir Contractor
+ Mark Granovetter
+ Dirk Helbing
+ Helen Hall Jennings
+ Frigyes Karinthy
+ Zeev Maoz
+ John Levi Martin
+ James D. Montgomery
+ Anna Nagurney
+ Barry Wellman
+ Douglas White
+ Harrison White
+
+- Physics
+Réka Albert
+Luís A. N. Amaral
+Albert-László Barabási
+Marc Barthelemy
+Kevin E. Bassler
+Dirk Brockmann
+Kim Christensen
+Ernesto Estrada
+Shlomo Havlin
+Vito Latora
+José Fernando Ferreira Mendes
+Adilson E. Motter
+Mark Newman
+H. Eugene Stanley
+Alessandro Vespignani
+Duncan Watts
+
+- Biology
+Danielle Bassett
+Olaf Sporns
+
+- Mathematics
+Vincent Blondel
+Béla Bollobás
+Pául Erdős
+Frank Harary
+László Lovász
+Alfréd Rényi
+Steven Strogatz
+Mason Porter
+Tiago Piexoto
+
+以上来自[wikipedia-List of network scientists](https://en.wikipedia.org/wiki/List_of_network_scientists)
+
+上面两个都提到的大概率是值得研究的牛人，另外，上面的来源写的是一些在关键节点上有重大贡献的人。
+
+
+### 1.3.3、top journals
+
+
 
 
 
@@ -184,7 +291,32 @@ github awesome清单
 
 > 网络科学作为一门交叉学科，为你提供了一个观察世界的全新视角。
 
+以上阳老师的博文
+
+产生这些网络的过程也有很大不同：代谢网络是由数十亿年的进化形成的; WWW是由数百万个人和组织的集体行动建立的; 社会网络由社会规范塑造，其根源可追溯到数千年前。鉴于这种规模，性质，范围，历史和演变的多样性，如果这些系统背后的网络差异很大，就不会感到惊讶。
+
+网络科学的一个重要发现是，在科学，自然和技术的各个领域出现的网络结构彼此相似，这是由相同的组织原则支配的结果。因此，我们可以使用一套通用的数学工具来探索这些系统。
+
+以上巴拉的networks书籍
+
+思路二
+
+
+幂律本身就是一个有趣的概念。你以为网页之间的链接是随机的，实际上是按照幂律分布的，并且很多的网络都是按照幂律分布，不管是自然形成的神经网络、生物链，还是社会网络，还是人造的万维网、电力网。
+
+### 1.3.5、论文、图书
+
+阅读1000篇硕博论文（因为是跨学科的，所以选用几个关键词搜索，希望尽量可以达到最小全局认识）
+
+阅读大牛的论文（知识是围绕人来的。研究大牛著作，读源头的论文、最老、最新、引用最多论文）
+
+批量读书。买到网络科学所有的书籍，
+
 # 2.商业分析
+
+网络科学在商业中的应用
+
+如何发现趋势，套利
 
 > 你不经常听到科学家说他们的领域有足够的资金。但你确实听到网络科学家的说法。麻省理工学院社会学家Damon Centola说：“现在几乎每个人都在为网络科学提供资金”，他研究了信仰和行为 - 从宗教极端主义到接种疫苗 - 如何在大型社会群体中传播。“这是进入网络科学的好时机，”他说。
 >
@@ -193,6 +325,8 @@ github awesome清单
 > 国家科学基金会也一直在增加对网络科学的支持，特别是在致力于计算机科学和人类社会动态的部门内。Barabási说，对网络研究的军事支持也越来越多，指向由陆军，空军，海军研究办公室和国防威胁减少机构资助的研究项目。“当然，从来没有足够的钱，”他说。“但我们看到很多机构都发现这很重要，他们把钱放在嘴边。”
 
 [Tangled Webs: Careers in Network Science](https://www.sciencemag.org/careers/2009/07/tangled-webs-careers-network-science)
+
+
 
 # 3.职业分析
 
@@ -223,4 +357,4 @@ github awesome清单
 
 - 190113 初步扩充好学术分析的时空变量内容
 
--
+- 190117 更新
